@@ -13,7 +13,7 @@ Uygulama, **SOLID prensipleri** ışığında tasarlanmış olup geliştirilmeye
 
 ---
 
-![Image](https://github.com/user-attachments/assets/4a74ccdb-9f0a-402d-b068-57190ac87b29)
+![Image](https://github.com/user-attachments/assets/2bd849e6-8650-43ac-a40b-1c4aaa87fe3f)
 
 ## 📚 Öne Çıkan Özellikler
 
