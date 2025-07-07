@@ -96,7 +96,6 @@ src/
 
 
 
-<img width="811" height="102" alt="Image" src="https://github.com/user-attachments/assets/5e549bb6-2bbd-4996-a6c2-51e2fd8dbcea" />
 
 ## 🚀 Projeyi Çalıştırma
 
@@ -115,7 +114,7 @@ pause
 
 ---
 
-![Image](https://github.com/user-attachments/assets/5301cf06-6581-45cd-92c2-a3f4e3b60cb8)
+<img width="811" height="102" alt="Image" src="https://github.com/user-attachments/assets/5e549bb6-2bbd-4996-a6c2-51e2fd8dbcea" />
 
 ## 👨‍💻 Geliştirici Ekibi
 
