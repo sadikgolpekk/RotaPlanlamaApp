@@ -95,7 +95,8 @@ src/
 ---
 
 
-![Image](https://github.com/user-attachments/assets/15b036eb-2b29-47e4-932c-55716ad2817c)
+
+<img width="811" height="102" alt="Image" src="https://github.com/user-attachments/assets/5e549bb6-2bbd-4996-a6c2-51e2fd8dbcea" />
 
 ## 🚀 Projeyi Çalıştırma
 
